@@ -1,3 +1,5 @@
+.venv
+dist
 __pycache__
 test.py
 dotted_trans.tsv
